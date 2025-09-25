@@ -1,0 +1,62 @@
+{
+  "term": "Spring",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Society",
+      "Middle Eastern Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Middle Eastern History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Fine Arts",
+      "Performance Arts"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ]
+  ],
+  "legacy_uid": "f507ddca-ebde-ca11-2961-3b91f5e500c0",
+  "instructors": {
+    "content": [
+      "5b70c318-31bf-2d0c-bf8f-cde7bfa30abd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "f262ed11-b74e-d380-24bb-a76fd15a7465",
+    "website": "21a-453-anthropology-of-the-middle-east-spring-2004"
+  },
+  "course_title": "Anthropology of the Middle East",
+  "course_description": "This course examines traditional performances of the Arabic-speaking populations of the Middle East and North Africa. Starting with the history of the ways in which the West has discovered, translated and written about the Orient, we will consider how power and politics play roles in the production of culture, narrative and performance. This approach assumes that performance, verbal art, and oral literature lend themselves to spontaneous adaptation and to oblique expression of ideas and opinions whose utterance would otherwise be censorable or disruptive. In particular we will be concerned with the way traditional performance practices are affected by and respond to the consequences of modernization.\n\nTopics include oral epic performance, sacred narrative, Koranic chant performance, the folktale, solo performance, cultural production and resistance.\n",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.453",
+  "course_image_thumbnail": {
+    "content": "20b57a7b-2f1b-4c0a-2ce8-1f737d8a34ac",
+    "website": "21a-453-anthropology-of-the-middle-east-spring-2004"
+  },
+  "learning_resource_types": [
+    "Other Video",
+    "Image Gallery"
+  ],
+  "site_uid": "1d4ac589-24b9-4653-9eae-8496957ef885",
+  "site_short_id": "21a.453-spring-2004",
+  "site_url_path": "courses/21a-453-anthropology-of-the-middle-east-spring-2004",
+  "title": "Course Metadata"
+}
