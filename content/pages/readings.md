@@ -77,7 +77,7 @@ Webber, Sabra. "On Canonicity, Literacy, and Middle Eastern Folk Narrative." *Ed
 The Performance of Folktale: "The Story of Solomon and Sheba" -- Christian, Muslim and Jewish texts
 {{< tdclose >}}{{< tdopen >}}
 
-1) [Bible. Old Testament](https://www.biblegateway.com/passage/?search=1%20Kings%201&version=NIV): I Kings, I Chronicles; 2) [Bible. New Testament](https://www.biblegateway.com/passage/?search=Matthew+12%3A42%3B+Luke+11%3A31&version=NIV): Matthew 12.42 and Luke 11.31; and 3) [Koran](http://etext.lib.virginia.edu/toc/modeng/public/HolKora.html): Sura 27
+1) {{% resource_link "29f7340a-2bb4-4f40-b4e9-1cffda199534" "Bible. Old Testament" %}}: I Kings, I Chronicles; 2) {{% resource_link "45d2d14a-2b99-4ee3-856a-bd6807a32f40" "Bible. New Testament" %}}: Matthew 12.42 and Luke 11.31; and 3) {{% resource_link "d3144189-3199-4e19-862a-0452cce85047" "Koran" %}}: Sura 27
 
 Handouts: *Targum Sheni* on *The Book of Esther* and al-Kisa'i\_, Stories of the Prophets\_.
 
@@ -157,7 +157,7 @@ Aswad, Barbara. "Arab Americans: Those Who Followed Columbus." *Middle East Stud
 
 Slyomovics, Susan. "New York City's Muslim World Day Parade." In *Nation and Migration: The Politics of Space in the South Asian Diaspora.* Edited by Peter Van Der Veer. Philadephia, PA: University of Pennsylvania Press, 1995, pp. 157-177. ISBN: 9780812215373. ({{% resource_link "ca9e1645-cfae-cd88-3e43-c656a038ea5c" "PDF" %}})
 
-Slyomovics. The Muslim World Day Parade and 'Storefront' Mosques of New York City." In [*Making Muslim Space in North America and Europe*](http://www.ucpress.edu/books/pages/6763.html). Edited by Barbara Daly Metcalf. Berkeley, CA: University of California Press, 1996, pp. 204-216. ISBN: 9780520204034. The Regents of the University of California.
+Slyomovics. The Muslim World Day Parade and 'Storefront' Mosques of New York City." In {{% resource_link "3df614f0-56d2-4ab4-9c3f-85b51a3fbcd1" "*Making Muslim Space in North America and Europe*" %}}. Edited by Barbara Daly Metcalf. Berkeley, CA: University of California Press, 1996, pp. 204-216. ISBN: 9780520204034. The Regents of the University of California.
 
 ———. "Comparing Mosques to New York City's Ethnic and Social Clubs." In *NY Masjid: The Mosques of New York*. Edited by Jerrilyn Dodds. New York, NY: Storefront for Art and Architecture, 1996, n.p. Catalogue essay with photographs for a museum exhibition, Nov. 30, 1996-Jan. 30, 1997 held at the Storefront for Art and Architecture, powerHouse Books; 1 edition (May 2002). ISBN: 9781576871355. ({{% resource_link "5f85491c-d010-7814-1d2d-208e39adfc08" "PDF" %}})          
  
